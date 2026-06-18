@@ -1,4 +1,4 @@
-git clone (https://github.com/Pranitha-Ganji/data-visualization-graphs.git)
+git clone https://github.com/Pranitha-Ganji/data-visualization-graphs.git
 
 cd data-visualization-graphs
 
